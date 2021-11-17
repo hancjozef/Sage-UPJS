@@ -3,4 +3,4 @@ Jupyter notebook bežiaci online na serveri Binder s kernelmi SageMath, Python, 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hancjozef/Sage-UPJS/HEAD?urlpath=tree/Workspace)
 
-bit.ly/UPJS-Sage
+https://bit.ly/UPJS-Sage
