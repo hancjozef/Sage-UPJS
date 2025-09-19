@@ -10,6 +10,7 @@ FROM sagemath/sagemath:9.1-py3
 COPY --chown=sage:sage . ${HOME}
 
 # Install this package and dependencies
-RUN sage -pip install uofsc_calculus_labs
+# RUN sage -pip install uofsc_calculus_labs
+
 
 
